@@ -1,6 +1,6 @@
 {
   "name": "no-kafka-hack",
-  "description": "Apache Kafka 0.9 client for Node.JS",
+  "description": "no-kafk hack to access metadata for healthcheck",
   "homepage": "https://github.com/tcollinsworth/kafka",
   "author": {
     "name": "Troy Collinsworth",
